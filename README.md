@@ -16,4 +16,3 @@ Here are some screeenshots of the application showcasing the Booking functionali
 
 =======
 # Little-Lemon-Reservation-Website
->>>>>>> b000cb827bf89321e50cf40781a5874da0f6a267
